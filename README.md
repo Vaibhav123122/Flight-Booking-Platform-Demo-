@@ -14,9 +14,6 @@ A simple demo web application for booking flights. Built to simulate the core fu
 - HTML/CSS (Frontend)
 - SQLite (Database)
 
-## 📸 Screenshots
-*(Add screenshots if available)*
-
 ## 📦 Setup Instructions
 1. Clone this repo:
 ```bash
